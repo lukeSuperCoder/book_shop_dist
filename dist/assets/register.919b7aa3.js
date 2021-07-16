@@ -1,0 +1,1 @@
+import{r as t}from"./index.31d9e266.js";function r(r){return t({url:"/api/auth/register",method:"post",params:r})}function a(r){return t({url:"/api/auth/login",method:"post",params:r})}function o(r){return t({url:"/api/auth/logout",method:"post"})}function u(){return t({url:"/api/user",method:"get"})}export{o as L,r as R,a,u as g};

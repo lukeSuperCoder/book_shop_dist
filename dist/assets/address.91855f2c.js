@@ -1,0 +1,1 @@
+import{r}from"./index.31d9e266.js";function a(a){return r({url:"/api/address",method:"post",params:a})}function e(a,e){return r({url:`/api/address/${a}`,method:"put",params:e})}function s(a){return r({url:`/api/address/${a}`,method:"delete"})}function t(){return r({url:"/api/address"})}export{a,s as d,e,t as g};
